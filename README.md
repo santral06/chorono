@@ -1,3 +1,3 @@
 chorono
 =======
-An eclipse backup
+An eclipse backup of chrono
